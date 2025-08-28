@@ -2,7 +2,7 @@
 
 🚀 Aspiring **DevOps Engineer and Data Analyst** | Python • AWS • SQL • Jenkins • Docker 
 
-🎯 Passionate about building **end-to-end automation pipelines**, **cloud tools**, and **real-world scripting projects**.  
+🎯 Passionate about building end-to-end automation pipelines, cloud tools, real-world scripting projects, and data-driven analysis for actionable insights.  
 
 ---
 
