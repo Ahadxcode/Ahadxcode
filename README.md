@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahad Khan  
 
-🚀 Aspiring **DevOps & Cloud Engineer** | Python • AWS • Jenkins • Docker
+🚀 Aspiring **DevOps Engineer and Data Analyst** | Python • AWS • SQL • Jenkins • Docker 
 
 🎯 Passionate about building **end-to-end automation pipelines**, **cloud tools**, and **real-world scripting projects**.  
 
