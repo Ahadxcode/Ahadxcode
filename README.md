@@ -28,9 +28,9 @@
 
 ## 🛠️ Tech Stack  
 
-**Languages**: Python, C++  
+**Languages**: Python, C++  SQL
 **Data Tools**: Pandas, NumPy, Excel, 
-**Databases**: SQL, MongoDB  
+**Databases**: MySQL, MongoDB  
 **Cloud & DevOps**:  
 - **AWS** → EC2, S3, IAM, RDS, Lambda, VPC, CloudWatch  
 - **Other Tools** → Docker, Jenkins, Git/GitHub, GitHub Actions  
