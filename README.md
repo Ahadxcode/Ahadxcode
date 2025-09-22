@@ -16,10 +16,14 @@ Passionate about uncovering insights through data exploration, visualization, an
 
 ## 🔥 Featured Projects  
 
-### ☁️ [AWS Backup CLI Tool](https://github.com/Ahadxcode/python-aws-backup-cli)  
-- Python script to **compress local directories** and upload to **AWS S3**.  
-- Added **unit tests** with Pytest and **CI/CD automation** with GitHub Actions.  
 
+### ⚙️ [Churn Analysis](https://github.com/Ahadxcode/Churn-Analysis-Project) 
+-End-to-end churn analysis using SQL Server Management Studio (SSMS 21), Power BI, and Python.
+-Performed ETL, data cleaning, and preprocessing in SQL Server.
+-Built interactive dashboards in Power BI with DAX measures for churn trends and KPIs.
+-Conducted EDA and predictive modeling in Python using Random Forest Classifier.
+
+Delivered insights to identify at-risk customers and support data-driven retention strategies.
 ### ⚙️ [Playlist Manager with Jenkins CI/CD](https://github.com/Ahadxcode/Python-CLI-playlist-manager-with-Docker-Jenkins-CI-CD)  
 - Dockerized Python app with a **Jenkins pipeline** for CI/CD automation.  
 - Demonstrates DevOps skills in containerization and pipeline integration.  
