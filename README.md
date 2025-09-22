@@ -6,11 +6,11 @@ Passionate about uncovering insights through data exploration, visualization, an
 ---
 
 ## 💼 About Me  
-- 🎓 B.Tech in **Electrical & Electronics Engineering** (Amity University, 2025)
--📊 CGPA: **8.8 / 10** 
--🛠️ Experienced with SQL Server Management Studio (SSMS), ETL pipelines, Python, Advanced Excel, Power BI, Tableau, and Machine Learning algorithms
--📊 Skilled in data cleaning, preprocessing, analysis, visualization, and predictive modeling
-- 🤝 Active in communities: **IEEE AUUP Vice Chair**, IEEE YP, WIE, Superconductivity Council  
+-  🎓 B.Tech in **Electrical & Electronics Engineering** (Amity University, 2025)
+-  📊 CGPA: **8.8 / 10** 
+-  🛠️ Experienced with SQL Server Management Studio (SSMS), ETL pipelines, Python, Advanced Excel, Power BI, Tableau, and Machine Learning algorithms
+-  📊 Skilled in data cleaning, preprocessing, analysis, visualization, and predictive modeling
+-  🤝 Active in communities: **IEEE AUUP Vice Chair**, IEEE YP, WIE, Superconductivity Council  
 
 ---
 
