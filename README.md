@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Ahad Khan  
 
-🚀 Aspiring **DevOps Engineer and Data Analyst** | Python • AWS • SQL • Jenkins • Docker 
-
-🎯 Passionate about building end-to-end automation pipelines, cloud tools, real-world scripting projects, and data-driven analysis for actionable insights.  
+🚀 Aspiring **Data Analyst** | Python • AWS • SQL • Power BI • Tableau • Advanced Excel
+Passionate about uncovering insights through data exploration, visualization, and storytelling — turning raw data into actionable business decisions.
 
 ---
 
 ## 💼 About Me  
 - 🎓 B.Tech in **Electrical & Electronics Engineering** (Amity University, 2025)
--  📊 CGPA: **8.8 / 10** 
-- 🛠️ Experienced with **Python, C++, SQL, MongoDB, AWS, Jenkins,Docker**  
-- 📊 Hands-on in **Data Analysis, Cloud Automation, and DevOps (CI/CD pipelines)**  
+-📊 CGPA: **8.8 / 10** 
+-🛠️ Experienced with SQL Server Management Studio (SSMS), ETL pipelines, Python, Advanced Excel, Power BI, Tableau, and Machine Learning algorithms
+-📊 Skilled in data cleaning, preprocessing, analysis, visualization, and predictive modeling
 - 🤝 Active in communities: **IEEE AUUP Vice Chair**, IEEE YP, WIE, Superconductivity Council  
 
 ---
@@ -29,11 +28,10 @@
 ## 🛠️ Tech Stack  
 
 **Languages**: Python, C++  SQL
-**Data Tools**: Pandas, NumPy, Excel, 
-**Databases**: MySQL, MongoDB  
+**Data Tools**: Pandas, NumPy, Advanced Excel, 
+**Databases**: MySQL, MongoDB , Postgre SQL
 **Cloud & DevOps**:  
 - **AWS** → EC2, S3, IAM, RDS, Lambda, VPC, CloudWatch  
-- **Other Tools** → Docker, Jenkins, Git/GitHub, GitHub Actions  
 **OS & Admin**: Linux basics
 
 ---
