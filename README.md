@@ -48,7 +48,7 @@ Delivered insights to identify at-risk customers and support data-driven retenti
 ---
 
 ## 🌐 Connect With Me  
-- 📧 Email: [ahadk77777@gmail.com](mailto:ahadk9327@gmail.com)  
+- 📧 Email: [ahadk9327@gmail.com](mailto:ahadk9327@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ahadkhan77](https://linkedin.com/in/ahadkhan77)  
 - 💻 GitHub: [github.com/Ahadxcode](https://github.com/Ahadxcode)  
 
